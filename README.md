@@ -1,7 +1,8 @@
 # Hello There 😃
 
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/bennett-wendorf)
-[![GitHub](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)]([https://github.com/cwendorf](https://www.linkedin.com/in/bennett-wendorf/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/bennett-wendorf/)
+[![Website](https://img.shields.io/badge/Web-Bennett-informational?style=flat-square&colorB=616161&labelColor=527C9D)](https://bennettwendorf.dev)
 
 I'm Bennett, a student and programmer in Wisconsin, USA.
 
